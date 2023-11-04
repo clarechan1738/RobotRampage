@@ -371,6 +371,7 @@
 "Assets/CrossPlatformInput/Scripts/TiltInput.cs"
 "Assets/CrossPlatformInput/Scripts/TouchPad.cs"
 "Assets/CrossPlatformInput/Scripts/VirtualInput.cs"
+"Assets/Scripts/Ammo.cs"
 "Assets/Scripts/AssaultRifle.cs"
 "Assets/Scripts/Constants.cs"
 "Assets/Scripts/GameUI.cs"
