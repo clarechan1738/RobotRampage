@@ -95,8 +95,8 @@ MonoBehaviour:
     y: 0
     width: 258
     height: 371
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -316,7 +316,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -1520
+  m_LastSelectedObjectID: 23262
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -424,10 +424,10 @@ MonoBehaviour:
       e32: 0
       e33: 1
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: 5f48799fad9d77d40abeca47fad5821d,
+  m_AnimatorController: {fileID: 9100000, guid: 752d2be40debf974d9f019e221e54940,
     type: 2}
   m_BreadCrumbs:
-  - m_Target: {fileID: 372939305081041318, guid: 5f48799fad9d77d40abeca47fad5821d,
+  - m_Target: {fileID: 372939305081041318, guid: 752d2be40debf974d9f019e221e54940,
       type: 2}
     m_ScrollPosition: {x: 0, y: 0}
   stateMachineGraph: {fileID: 0}
@@ -522,7 +522,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Animations
+    - Assets/Scripts
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -530,16 +530,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Animations
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\clare\Documents\Game_312\RobotRampage2023\RobotRampage
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 45}
-    m_SelectedIDs: ae5f0000
-    m_LastClickedID: 24494
-    m_ExpandedIDs: 00000000865f000000ca9a3bffffff7f
+    m_SelectedIDs: ce5f0000
+    m_LastClickedID: 24526
+    m_ExpandedIDs: 00000000985f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -567,7 +567,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000865f0000
+    m_ExpandedIDs: 00000000985f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -611,7 +611,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 11}
+      m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -708,10 +708,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 39}
-      m_SelectedIDs: 42f9ffff
-      m_LastClickedID: -1726
-      m_ExpandedIDs: 34f9ffff42f9ffff02faffff10faffffd0faffffdefaffff24fbffff
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: de5a0000
+      m_LastClickedID: 23262
+      m_ExpandedIDs: 30fbffffb25a0000d05a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
