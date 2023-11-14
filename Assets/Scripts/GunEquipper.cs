@@ -12,6 +12,7 @@ public class GunEquipper : MonoBehaviour
     public GameObject pistol;
     public GameObject assaultRifle;
     public GameObject shotgun;
+    public GameObject laser;
     GameObject activeGun;
     [SerializeField]
     Ammo ammo;
@@ -58,6 +59,12 @@ public class GunEquipper : MonoBehaviour
         {
             loadWeapon(shotgun);
             activeWeaponType = Constants.Shotgun;
+            gameUI.UpdateReticle();
+        }
+        else if (Input.GetKeyDown("4"))
+        {
+            loadWeapon(laser);
+            activeWeaponType = Constants.Laser;
             gameUI.UpdateReticle();
         }
     }
